@@ -1,0 +1,3 @@
+[submodule "js-cp-template"]
+	path = js-cp-template
+	url = git@github.com:DecoratedKnight/js-cp-template.git
